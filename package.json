@@ -14,7 +14,7 @@
     "mobx-react": "6",
     "moment": "^2.29.1",
     "node-sass": "5",
-    "postcss": "^8.3.11",
+    "postcss": "^8.4.5",
     "react-chartjs-2": "^3.3.0",
     "rollup-plugin-postcss": "^4.0.1"
   },
