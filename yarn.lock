@@ -2214,10 +2214,10 @@ rollup-plugin-postcss@^4.0.1:
     safe-identifier "^0.4.2"
     style-inject "^0.3.0"
 
-rollup-plugin-sass@^1.2.9:
-  version "1.2.9"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-sass/-/rollup-plugin-sass-1.2.9.tgz#0c2609d0f813d68b79d9f3ccda2b96d4f0dc1f39"
-  integrity sha512-ShI0T6tQxvM0B/njgZ35/1RuiNZTo9LtrUYFRupNokmXbresGb6RvYnkQvWbq4a5UBIp57VJ+cjPcsJKthXV8Q==
+rollup-plugin-sass@^1.2.12:
+  version "1.2.12"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-sass/-/rollup-plugin-sass-1.2.12.tgz#a7ed9710482b932dac758f8526c14e1da33d02ac"
+  integrity sha512-LD1LwKOGRFwg42PsSsOjYwYlt6B+YuGTA0yjgZiVTfx/sXBr8FBjX97YEPVW6Z/lNKRsxP+xufFONp2ADOWkVQ==
   dependencies:
     "@rollup/pluginutils" "^3.1.0"
     resolve "^1.5.0"
