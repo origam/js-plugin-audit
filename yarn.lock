@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@origam/plugin-interfaces@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@origam/plugin-interfaces/-/plugin-interfaces-1.0.0.tgz#f393a21243051559eacc6793dc77c2e43bcfb07a"
-  integrity sha512-ttaWDJr4Xc5MiKCpsP/8gMBoiVr+1ptCb9dMRAejZaTB7OweDtxKD85Fk1GMHoI3onm4pC0kEAM7pl8t+7fidg==
+"@origam/plugin-interfaces@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@origam/plugin-interfaces/-/plugin-interfaces-2.1.0.tgz#664625cece416f12b3abdad1c9840183976b2694"
+  integrity sha512-uyMS+QbYlkEzqA55nAynRtwm09uFYHkQnoxLkRi+5Lye00LOEOMQUsB1UfU7wlQIL7z9aQVuiK+VA2diBPBk0w==
 
 "@origam/styles@^1.0.0":
   version "1.0.0"
