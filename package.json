@@ -7,7 +7,7 @@
     "dist"
   ],
   "dependencies": {
-    "@origam/plugin-interfaces": "^1.0.0",
+    "@origam/plugins": "^1.0.2",
     "@origam/styles": "^1.0.0",
     "@types/classnames": "^2.3.1",
     "mobx": "5",
