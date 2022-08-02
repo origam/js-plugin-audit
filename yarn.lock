@@ -2,15 +2,25 @@
 # yarn lockfile v1
 
 
-"@origam/plugin-interfaces@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@origam/plugin-interfaces/-/plugin-interfaces-1.0.0.tgz#f393a21243051559eacc6793dc77c2e43bcfb07a"
-  integrity sha512-ttaWDJr4Xc5MiKCpsP/8gMBoiVr+1ptCb9dMRAejZaTB7OweDtxKD85Fk1GMHoI3onm4pC0kEAM7pl8t+7fidg==
+"@origam/plugins@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@origam/plugins/-/plugins-1.0.2.tgz#1b95327b86eeddce9efdace2f7e0fafeb0badcc7"
+  integrity sha512-Mut5PsG9JEYBHdQGBbtsy3v/fHW0Aia8+kzeTX4QU/DHi2mRRTBp8EjFQE8Pwy8SnuEi3Lev3L2jQjpKQ538KQ==
+  dependencies:
+    "@origam/utils" "^1.1.1"
+    mobx "5"
 
 "@origam/styles@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@origam/styles/-/styles-1.0.0.tgz#86f710ddd2294e2e45c2aa9ead5247e9d68ec4b8"
   integrity sha512-3rHnSKIkApTZlnlP0BDQDEoCXfSWGD/NwQP8vKgB/oBzVj6iNTwK2UpHPL5XTRjcDQSqCjsh1KEWy8XQbNSnqA==
+
+"@origam/utils@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@origam/utils/-/utils-1.1.1.tgz#b0d4d1bb358b293cfcaf79e0b0ed745be53d91c9"
+  integrity sha512-Kt2Dn8nO2PyJfgeZGeUXKcnn7Gp8vQCDlw91/XLZ9zmN7dRb39vwqRvlBP1L/jCpGQ5NiH2VuebtTuPEvuXo0Q==
+  dependencies:
+    moment "^2.29.1"
 
 "@rollup/pluginutils@^3.1.0":
   version "3.1.0"

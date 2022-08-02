@@ -22,12 +22,12 @@ import S from './AuditPlugin.module.scss';
 import {
   ILocalization,
   ILocalizer,
-  IPluginData,
+  ISectionPluginData,
   IPluginDataView,
   IPluginProperty,
   IPluginTableRow,
   ISectionPlugin
-} from "@origam/plugin-interfaces";
+} from "@origam/plugins";
 import { observer } from "mobx-react";
 import { observable } from "mobx";
 import moment from "moment";
@@ -41,7 +41,7 @@ export class AuditPlugin implements ISectionPlugin {
 
   }
 
-  getComponent(data: IPluginData, createLocalizer: (localizations: ILocalization[]) => ILocalizer): JSX.Element {
+  getComponent(data: ISectionPluginData, createLocalizer: (localizations: ILocalization[]) => ILocalizer): JSX.Element {
     return <AuditComponent
       pluginData={data}
       getScreenParameters={this.getScreenParameters}
@@ -50,11 +50,15 @@ export class AuditPlugin implements ISectionPlugin {
 
   @observable
   getScreenParameters: (() => { [parameter: string]: string }) | undefined;
+
+  onSessionRefreshed(): void {
+
+  }
 }
 
 @observer
 class AuditComponent extends React.Component<{
-  pluginData: IPluginData,
+  pluginData: ISectionPluginData,
   getScreenParameters: (() => { [parameter: string]: string }) | undefined;
   localizer: ILocalizer
 }> {
