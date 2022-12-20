@@ -2070,10 +2070,10 @@ qs@~6.5.2:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
   integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
 
-react-chartjs-2@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/react-chartjs-2/-/react-chartjs-2-3.3.0.tgz#3f62681645acccc1ab27a9186c70f79d6d417f73"
-  integrity sha512-4Mt0SR2aiUbWi/4762odRBYSnbNKSs4HWc0o3IW43py5bMfmfpeZU95w6mbvtuLZH/M3GsPJMU8DvDc+5U9blQ==
+react-chartjs-2@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/react-chartjs-2/-/react-chartjs-2-5.1.0.tgz#8179f8120518c86c644f9d46aee537de7ac3449a"
+  integrity sha512-Gt76b7+p7nMQq0MvkWfUSNAzIm/TLAnAO32zIpSzrQyc9JWRbVCtq8qOzPJmfpDzPcIJ7Y9Gp5g+VdTRrGITsQ==
 
 react-dom@^17.0.2:
   version "17.0.2"
