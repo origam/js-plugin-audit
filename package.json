@@ -27,7 +27,7 @@
     "rollup": "^3.10.1",
     "rollup-plugin-sass": "^1.12.17",
     "rollup-plugin-typescript2": "^0.34.1",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.5"
   },
   "peerDependencies": {
     "mobx": "5",
