@@ -13,7 +13,7 @@
     "mobx": "5",
     "mobx-react": "6",
     "moment": "^2.29.4",
-    "node-sass": "8",
+    "node-sass": "9",
     "postcss": "^8.4.24",
     "rollup-plugin-postcss": "^4.0.2"
   },
