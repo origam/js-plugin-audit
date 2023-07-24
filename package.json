@@ -14,7 +14,7 @@
     "mobx-react": "6",
     "moment": "^2.29.4",
     "node-sass": "8",
-    "postcss": "^8.4.26",
+    "postcss": "^8.4.27",
     "rollup-plugin-postcss": "^4.0.2"
   },
   "devDependencies": {
