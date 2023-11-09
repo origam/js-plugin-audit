@@ -68,10 +68,10 @@
     "@origam/utils" "^1.1.1"
     mobx "5"
 
-"@origam/styles@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@origam/styles/-/styles-2.0.3.tgz#5ef69abaf654086d7d32ddb8db4e1b0e391fc82d"
-  integrity sha512-/ZNNEe8pSLKIFk/cvs57vdhDwLPUJeC9dgk01N1tZ8M5xAIcGqqplkvDWiDz2ytvez6mS1JnNvhUQXBp/A0chA==
+"@origam/styles@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@origam/styles/-/styles-2.1.0.tgz#47fe4b1d41d79c2824b0bb8609bcd8ff2688514e"
+  integrity sha512-xQapr7X8rT5hH6vzJDH3srCwGOdCqid3sg+z+PQEtjrkZ5FgBZ1XA/5CDlGoN76/M8FgWsreBECL9UbZ/K79tw==
 
 "@origam/utils@^1.1.1":
   version "1.1.1"
