@@ -1,7 +1,7 @@
 {
   "name": "@origam/plugin-audit",
   "main": "dist/index.js",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "license": "GPL-3.0",
   "files": [
     "dist"
@@ -12,10 +12,7 @@
     "@types/classnames": "^2.3.1",
     "mobx": "5",
     "mobx-react": "6",
-    "moment": "^2.29.4",
-    "node-sass": "8",
-    "postcss": "^8.4.31",
-    "rollup-plugin-postcss": "^4.0.2"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "@types/react": "^17.0.34",
@@ -27,7 +24,10 @@
     "rollup": "^3.28.1",
     "rollup-plugin-sass": "^1.12.21",
     "rollup-plugin-typescript2": "^0.35.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "postcss": "^8.4.31",
+    "rollup-plugin-postcss": "^4.0.2",
+    "sass": "^1.69.5"
   },
   "peerDependencies": {
     "mobx": "5",
