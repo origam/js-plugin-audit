@@ -10,10 +10,10 @@
     "@origam/utils" "^1.1.1"
     mobx "5"
 
-"@origam/styles@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@origam/styles/-/styles-2.0.3.tgz#5ef69abaf654086d7d32ddb8db4e1b0e391fc82d"
-  integrity sha512-/ZNNEe8pSLKIFk/cvs57vdhDwLPUJeC9dgk01N1tZ8M5xAIcGqqplkvDWiDz2ytvez6mS1JnNvhUQXBp/A0chA==
+"@origam/styles@^2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@origam/styles/-/styles-2.1.1.tgz#3f06d8a6758ff3b8caaed88cbd83c5c4167b2f13"
+  integrity sha512-IcMKGYtmOIcJNhcvCKet67VYUNUtXzrD3mgf1otptz/FpY+3sFoG9L3WAQ8gCWbEg9s8oDLhnSMjZ0bcQHuB6w==
 
 "@origam/utils@^1.1.1":
   version "1.1.1"
